@@ -20,6 +20,10 @@ It is just fascinating. When you do it from scratch and every piece falls into p
 
 I will never stop asking "why?" when it comes to computers. This subject fits me like a glove since it answered many of my questions.
 
+* Game Engine Development
+
+They are, in my humble oppinion, the most beautiful systems. They are complex and intrecat. Perfect for someone like me, who preffers learning instead of sleeping.
+
 * Embedded Systems
 
 The reasoning is the same as before, but the meaning is deeper. Buckle up, next stop that this buss takes is the one and only CPU.
