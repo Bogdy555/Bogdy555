@@ -6,32 +6,6 @@ I am a student at computer science (University of Bucharest, Faculty of Mathemat
 My development journy started when I was 14 out of curiosity, therefor I am a self thought developper.
 I consider myself ambitious, curios, energetic and pasionat.
 
-## Skills
-
-* C++
-* C
-* Assembly
-* Win32 API
-* OpenGL
-* Software Design
-* API Design
-* OOP
-* Platform Integration
-* Linear Algebra
-* Project Management
-* Linux
-* Socket Programming
-* C#
-* ASP.NET
-* Back End
-* Python
-* HTML
-* JavaScript
-* CSS
-* Haskell
-* SQL and PL/SQL
-* Embedded Systems
-
 ## Favourite things about computer science
 
 * Software Design
