@@ -22,7 +22,7 @@ I will never stop asking "why?" when it comes to computers. This subject fits me
 
 * Game Engine Development
 
-They are, in my humble oppinion, the most beautiful systems. They are complex and intrecat. Perfect for someone like me, who preffers learning instead of sleeping.
+They are, in my humble opinion, the most beautiful systems. They are complex and intrecat. Perfect for someone like me, who preffers learning instead of sleeping.
 
 * Embedded Systems
 
